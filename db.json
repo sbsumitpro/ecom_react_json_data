@@ -1,29 +1,31 @@
-[
-    {
-        "id":1,
-        "name":"5 Seater Sofa Set",
-        "description":"LEGEND HOME FURNITURE is an Indian brand that has been working for the most recent 20 Years in India and our Item quality is amazing we have confidence in quality work and craftsmanship. ",
-        "category":"Furniture",
-        "price":27499,
-        "rating":4.8,
-        "imgUrl":"https://m.media-amazon.com/images/I/51lMYExDsxL.jpg"
-    },
-    {
-        "id":1,
-        "name":"Women's Casual Bowling Bag",
-        "description":"Tommy Hilfiger PU Zipper Closure Women's Casual Bowling Bag (Beige, XL)",
-        "category":"Women's Bag",
-        "price":5599,
-        "rating":5,
-        "imgUrl":"https://m.media-amazon.com/images/I/61f5Sua7HHL._SX679_.jpg"
-    },
-    {
-        "id":1,
-        "name":"Kitchen Cabinet ",
-        "description":"Ebee Engineered Wood Kitchen Cabinet  (Finish Color - Wenge, DIY(Do-It-Yourself))",
-        "category":"Kitchen items",
-        "price":1309,
-        "rating":4.5,
-        "imgUrl":"https://rukminim2.flixcart.com/image/416/416/k2m6ufk0/rack-shelf/f/v/z/aa57-asian-craft-original-imafhwmwr3tnzyxg.jpeg?q=70"
-    }
-]
+{
+    "products":[
+        {
+            "id":1,
+            "name":"5 Seater Sofa Set",
+            "description":"LEGEND HOME FURNITURE is an Indian brand that has been working for the most recent 20 Years in India and our Item quality is amazing we have confidence in quality work and craftsmanship. ",
+            "category":"Furniture",
+            "price":27499,
+            "rating":4.8,
+            "imgUrl":"https://m.media-amazon.com/images/I/51lMYExDsxL.jpg"
+        },
+        {
+            "id":1,
+            "name":"Women's Casual Bowling Bag",
+            "description":"Tommy Hilfiger PU Zipper Closure Women's Casual Bowling Bag (Beige, XL)",
+            "category":"Women's Bag",
+            "price":5599,
+            "rating":5,
+            "imgUrl":"https://m.media-amazon.com/images/I/61f5Sua7HHL._SX679_.jpg"
+        },
+        {
+            "id":1,
+            "name":"Kitchen Cabinet ",
+            "description":"Ebee Engineered Wood Kitchen Cabinet  (Finish Color - Wenge, DIY(Do-It-Yourself))",
+            "category":"Kitchen items",
+            "price":1309,
+            "rating":4.5,
+            "imgUrl":"https://rukminim2.flixcart.com/image/416/416/k2m6ufk0/rack-shelf/f/v/z/aa57-asian-craft-original-imafhwmwr3tnzyxg.jpeg?q=70"
+        }
+    ]
+}
