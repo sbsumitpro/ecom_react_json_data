@@ -30,11 +30,47 @@
         {
             "id": 4,
             "name": " Iphone 15 Pro",
-            "description": "s s f sadnkajs dafaskfnas. askas askasd ",
+            "description": "iPhone 15 Pro, a titanium marvel, boasts an aerospace-grade build, making it the lightest Pro model ever. The A17 Pro Chip marks a historic leap in Apple GPUs, delivering unparalleled graphics performance and immersive gaming experiences.",
             "category": "Mobile",
             "price": 127499,
             "rating": 4.7,
             "imgUrl": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1694674264/Croma%20Assets/Communication/Mobiles/Images/300785_0_ikcks6.png?tr=w-360"
+        },
+        {
+            "id":5,
+            "name":"realme Buds T300",
+            "description":"realme Buds T300 with 12.4mm Driver, 30dB ANC, 360 Spatial Audio and 40 hours Playback Bluetooth Headset  (Stylish Black, True Wireless)",
+            "category":"Blueooth Earphone",
+            "price":1999,
+            "rating":4.5,
+            "imgUrl":"https://rukminim2.flixcart.com/image/416/416/xif0q/headphone/v/y/o/-original-imagt3vwuweuwk9v.jpeg?q=70&crop=false"
+        },
+        {
+            "id": 6,
+            "name": "REDMI LED smart TV",
+            "description": "REDMI 108 cm (43 inch) Ultra HD (4K) LED Smart Android TV 2023 Edition with Dolby Atmos & Dolby vision  (L43R7-7AIN)",
+            "category": "Smart TV",
+            "price": 27499,
+            "rating": 5,
+            "imgUrl": "https://rukminim2.flixcart.com/image/416/416/xif0q/television/y/w/a/-original-imagxymf3brdz7gh.jpeg?q=70&crop=false"
+        },
+        {
+            "id":7,
+            "name":"ZunVolt Power MG5 500 Mixer Grinder",
+            "description":"ZunVolt Power MG5 500 Mixer Grinder (3 Jars, White) Add to Compare Sponsored ZunVolt Power MG5 500 Mixer Grinder (3 Jars, White) 428,384 Ratings & 1,943 Reviews 3 Jars 12 Months Manufacturer Warranty ₹1,359 ₹3,24958% off Free delivery Bank Offer",
+            "category":"Mixer Grinder",
+            "price":1359,
+            "rating":4.5,
+            "imgUrl":"https://rukminim2.flixcart.com/image/416/416/xif0q/mixer-grinder-juicer/t/p/v/power-zunvolt-original-imagz629gj32pqqz.jpeg?q=70&crop=false"
+        },
+        {
+            "id": 8,
+            "name": "foziq Multi Ring Shade Table Lamp",
+            "description": "foziq Multi Ring Shade with Metal Base Table Lamp  (41 cm, Yellow)",
+            "category": "Lamp Shade",
+            "price": 899,
+            "rating": 3.9,
+            "imgUrl": "hhttps://rukminim2.flixcart.com/image/416/416/kd3f3bk0/table-lamp/s/4/e/multi-ring-shade-with-metal-base-foziqtl-072030-foziq-original-imafu2tyuh5hf3gr.jpeg?q=70&crop=false"
         }
     ]
 }
